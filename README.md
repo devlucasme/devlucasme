@@ -44,20 +44,3 @@ Gosto de transformar ideias em soluções reais e sigo constantemente aprendendo
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    height="170" 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=devlucasme&show_icons=true&theme=tokyonight&count_private=true" 
-    alt="GitHub Stats"
-  />
-  <img 
-    height="170" 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=devlucasme&layout=compact&theme=tokyonight" 
-    alt="Top Languages"
-  />
-</p>
