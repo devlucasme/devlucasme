@@ -52,12 +52,12 @@ Gosto de transformar ideias em soluções reais e sigo constantemente aprendendo
 <p align="center">
   <img 
     height="170" 
-    src="https://github-readme-stats.vercel.app/api?username=devlucasme&show_icons=true&theme=tokyonight&count_private=true" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=devlucasme&show_icons=true&theme=tokyonight&count_private=true" 
     alt="GitHub Stats"
   />
   <img 
     height="170" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devlucasme&layout=compact&theme=tokyonight" 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=devlucasme&layout=compact&theme=tokyonight" 
     alt="Top Languages"
   />
 </p>
