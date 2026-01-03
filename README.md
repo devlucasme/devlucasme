@@ -9,14 +9,15 @@ Gosto de transformar ideias em soluções reais e sigo constantemente aprendendo
 
 ## 🌐 Onde me encontrar
 
-<p align="left">
-  <a href="https://github.com/devlucasme">
-    <img src="https://img.shields.io/badge/GitHub-devlucasme-181717?style=for-the-badge&logo=github" />
+<p align="left" style="margin: 0;">
+  <a href="https://github.com/devlucasme" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-   <a href="https://www.linkedin.com/in/lucas-gabriel-da-silva-8b4088314/" target="_blank">
+  <a href="https://www.linkedin.com/in/lucas-gabriel-da-silva-8b4088314/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
+
 
 ## 🛠️ Tech Stack
 
