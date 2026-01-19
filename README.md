@@ -2,8 +2,8 @@
 
 🚀 **Desenvolvedor de Software | Técnico em Informática**  
 
-Apaixonado por tecnologia, formei-me em Técnico em Informática pelo IFPE Campus Garanhuns.
-Gosto de transformar ideias em soluções reais e sigo constantemente aprendendo mais sobre desenvolvimento de software e novas tecnologias.
+Apaixonado por tecnologia, sou formado como Técnico em Informática pelo IFPE – Campus Garanhuns. Gosto de transformar ideias em soluções reais e estou em constante aprendizado, buscando evoluir no desenvolvimento de software e na aplicação de novas tecnologias para criar experiências úteis e inovadoras.
+
 
 ---
 
